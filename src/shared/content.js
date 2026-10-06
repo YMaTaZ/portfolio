@@ -54,7 +54,8 @@ export const eodd = {
   ],
   links: [
     { label: '在线体验 EODD Studio', href: 'https://eodd.studio/' },
-    { label: '阅读论文 PDF', href: 'assets/EODD_Design_Science_Paper.pdf' }
+    { label: '阅读论文 PDF', href: 'assets/EODD_Design_Science_Paper.pdf' },
+    { label: '查看论文网页源码', href: 'https://github.com/YMaTaZ/EODD' }
   ],
   problem: {
     h: '黑箱决策，风险落在三个方向',
